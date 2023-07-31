@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1647794676 source:d:\c”Ô—‘\test\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1655479788 source:d:\c”Ô—‘\test\main.cpp
+	<algorithm>
+	<stack>
+	<queue>
+	<iostream>
+	<cstring>
+	<cstdio>
+	<string>
+

@@ -1,0 +1,4 @@
+admin	admin
+xiaoyue	xiaoyue
+admin1	admin1
+ADMIN	ADMIN

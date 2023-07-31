@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664112683 source:d:\cÓïÑÔ\trieÊ÷\main.cpp
+	<iostream>
+	<algorithm>
+	<stack>
+	<queue>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+

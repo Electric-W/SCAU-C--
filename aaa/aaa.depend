@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647166338 source:d:\c”Ô—‘\aaa\main.cpp
+	<iostream>
+	<stdio.h>
+	<assert.h>
+	<malloc.h>
+	<errno.h>
+	<string.h>
+

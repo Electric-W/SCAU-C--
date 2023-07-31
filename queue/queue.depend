@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648041777 source:d:\c”Ô—‘\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648978952 source:d:\c”Ô—‘\queue\main.cpp
+	<cstdio>
+	<cstdlib>
+	<queue>
+	<iostream>
+	<algorithm>
+
